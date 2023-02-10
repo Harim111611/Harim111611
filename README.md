@@ -12,6 +12,7 @@ estudiante del instituto tecnologico de tijuana, me gustan las computadoras y la
 
 
 Mis Stats de GitHub
+
 [![Harim111611 GitHub stats](https://github-readme-stats.vercel.app/api?username=Harim111611)](https://github.com/Harim111611/github-readme-stats)
 
 Mi horario de clases
