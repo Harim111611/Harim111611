@@ -6,7 +6,7 @@
 ### Hola Visitantes 👋
 
 
-Gusto de ver el perfil del docente 👨‍🏫 ✨ Harim Luna ✨.
+Gusto de ver el perfil del estudiante 👨‍🏫 ✨ Harim Luna ✨.
 Estudiante del instituto tecnologico de tijuana:
 
 
@@ -18,14 +18,6 @@ Estudiante del instituto tecnologico de tijuana:
 | **Hora** | **Lunes**   | **Martes**   | **Miercoles** | **Jueves**   | **Viernes** |
 |:--------:|:-----------:|:------------:|:-------------:|:------------:|:-----------:|
 | 4-5pm    | 91L4        | 9302         | 9L14          | 9302         |             |
-
-Guias:
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
-PARA CREAR TABLAS
-Cooltext.com
-
-https://www.tablesgenerator.com/markdown_tables. 
 
 Bloque de Código Fuente:
 
