@@ -7,7 +7,7 @@
 
 Bienvenido este es mi perfil 
 Me presento, Soy Harim luna Hernandez y soy
-estudiante del instituto tecnologico de tijuana:
+estudiante del instituto tecnologico de tijuana, me gustan las computadoras y la programación:
 
 
 
