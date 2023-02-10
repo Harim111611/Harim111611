@@ -11,7 +11,7 @@ Estudiante del instituto tecnologico de tijuana:
 
 
 
-[![IoTeacher GitHub stats](https://github-readme-stats.vercel.app/api?username=Harim111611)](https://github.com/ioteacher/github-readme-stats)
+[![Harim111611 GitHub stats](https://github-readme-stats.vercel.app/api?username=Harim111611)](https://github.com/Harim111611/github-readme-stats)
 
 
 | **Hora** | **Lunes**   | **Martes**   | **Miercoles** | **Jueves**   | **Viernes** |
