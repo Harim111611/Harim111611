@@ -14,7 +14,8 @@ estudiante del instituto tecnologico de tijuana:
 
 [![Harim111611 GitHub stats](https://github-readme-stats.vercel.app/api?username=Harim111611)](https://github.com/Harim111611/github-readme-stats)
 
-Horario de Clases de Lenguajes De Interfaz
+Mi horario de clases
+
 | **Hora** | **Lunes**   | **Martes**   | **Miercoles** | **Jueves**   | **Viernes** |
 |:--------:|:-----------:|:------------:|:-------------:|:------------:|:-----------:|
 | 1-2pm    | LCIL        | LCIL         | 9302          | LCIL         |9302         |
