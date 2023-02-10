@@ -5,8 +5,9 @@
 ### Hola Visitantes 👋
 
 
-Gusto de ver el perfil del estudiante 👨‍🏫 ✨ Harim Luna ✨.
-Estudiante del instituto tecnologico de tijuana:
+Bienvenido este es mi perfil 
+Me presento, Soy Harim luna Hernandez y soy
+estudiante del instituto tecnologico de tijuana:
 
 
 
