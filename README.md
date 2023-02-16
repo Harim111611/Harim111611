@@ -2,7 +2,7 @@
 
 
 
-### Hola navegante el internet 👋
+### Hola navegante de el internet 👋
 
 
 Bienvenido este es mi perfil 
