@@ -2,7 +2,7 @@
 
 
 Imagen de la practica
-![](C:\Users\LAB-DSC-ITT\Downloads\Captura)
+![](C:\Users\LAB-DSC-ITT\Downloads\captura)
 
 
 
