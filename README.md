@@ -1,10 +1,6 @@
 ![](https://images.cooltext.com/5643145.png)
 
 
-Imagen de la practica
-![](C:\Users\LAB-DSC-ITT\Downloads\captura)
-
-
 
 ### Hola navegante de el internet 👋
 
